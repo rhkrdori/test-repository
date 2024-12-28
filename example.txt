@@ -1,0 +1,2 @@
+Hello, Git!
+And Hello, New World!
